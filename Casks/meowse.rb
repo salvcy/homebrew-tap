@@ -4,7 +4,7 @@ cask "meowse" do
 
   url "https://github.com/salvcy/meowse/releases/download/v#{version}/Meowse.zip"
   name "Meowse"
-  desc "Smooth scrolling for mouse wheels, with keep awake and cursor wiggling"
+  desc "Smooth scrolling, scroll direction, acceleration and side buttons for mice"
   homepage "https://meowse.app/"
 
   livecheck do
