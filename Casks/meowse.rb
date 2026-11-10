@@ -1,6 +1,6 @@
 cask "meowse" do
-  version "1.3.0"
-  sha256 "c4b47cc4637cc55bfb1a8ca96830603196e5cac81bbbf4b0c833064de0b475f8"
+  version "1.4.0"
+  sha256 "849151dab85b815c15d91b56794080989f97e5b97b0afa8bd2aca78297e99c84"
 
   url "https://github.com/salvcy/meowse/releases/download/v#{version}/Meowse.zip"
   name "Meowse"
